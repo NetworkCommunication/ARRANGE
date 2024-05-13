@@ -1,2 +1,3 @@
-# 这是使用pytorch实现ARRANGE
+# ARRANGE
+这是使用pytorch实现ARRANGE
 train_horizontal是主函数
